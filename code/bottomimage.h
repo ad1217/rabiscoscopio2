@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QPainter>
+#include <QPainterPath>
 
 #include "ui_bottomimage.h"
 #include "definitions.h"

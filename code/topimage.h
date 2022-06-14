@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QPainter>
+#include <QPainterPath>
 #include <QRect>
 
 #include "ui_topimage.h"

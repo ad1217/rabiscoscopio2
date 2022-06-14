@@ -17,6 +17,7 @@
 
 #include <fstream>
 #include <vector>
+#include <math.h>
 
 #include "definitions.h"
 
