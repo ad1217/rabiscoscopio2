@@ -34,7 +34,7 @@ SOURCES += code/about.cpp \
            code/main.cpp \
            code/mainwindow.cpp \
            code/topimage.cpp
-RESOURCES += code/aboutwin.qrc code/aboutwin2.qrc code/mainwindow.qrc
+RESOURCES += code/aboutwin.qrc code/mainwindow.qrc
 
 
 DESTDIR = build
